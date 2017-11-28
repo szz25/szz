@@ -1,6 +1,6 @@
-var box=document.getElementsByClassName("box")[0];
+var box = document.getElementsByClassName("box")[0];
 
-box.onclick=function(e){
-	//var e=e || window.event;
-	alert('杨波好棒')
+box.onmousover = function(e) {
+    //var e=e || window.event;
+    console.log('杨波好棒')
 }
