@@ -1,4 +1,4 @@
-var block = document.getElementsByClassName("block")[0]
-block.onclick = function(){
+var box = document.getElementsByClassName("box")[0]
+box.onclick = function(){
     alert("askdkjh")
 }
